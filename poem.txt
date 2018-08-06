@@ -4,4 +4,5 @@ Some test content
 3
 4
 5
+some add through edit
 end of test
