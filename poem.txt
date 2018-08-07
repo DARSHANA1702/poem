@@ -4,6 +4,7 @@ Some test content unicorn branch
 3
 4
 5
+another line
 some add through edit
 another change through edit comit
 end of test
